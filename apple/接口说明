@@ -1,0 +1,24 @@
+
+首页接口：
+1.https://ysnet.info/vip/Api/Comics/Videos?page=1&pagesize=20&category=番组计划
+2.https://ysnet.info/vip/Api/Comics/Videos?page=1&pagesize=20&category=国漫动画
+3.https://ysnet.info/vip/Api/Comics/Videos?page=1&pagesize=20&category=新番放送
+4.https://ysnet.info/vip/Api/Comics/Videos?page=1&pagesize=20&category=剧场动漫
+5.https://ysnet.info/vip/Api/Comics/Videos?page=1&pagesize=20&category=影视
+6.https://ysnet.info/vip/Api/Comics/Comics?page=1&pagesize=20&category=漫画
+
+
+视频详情 https://ysnet.info/vip/Api/Comics/VideoEpisodes?id=JOJO的奇妙冒险 星尘斗士&category=番组计划
+
+漫画详情
+https://ysnet.info/vip/Api/Comics/ComicEpisodes?id=海贼王&category=漫画
+
+搜索
+https://ysnet.info/vip/Api/Comics/Videos?page=1&pagesize=40&keyword=海贼王
+
+
+
+视频详情 https://ysnet.info/vip/Api/Comics/VideoEpisodes?id=JOJO的奇妙冒险 星尘斗士&category=番组计划
+
+漫画详情
+https://ysnet.info/vip/Api/Comics/ComicEpisodes?id=海贼王&category=漫画
